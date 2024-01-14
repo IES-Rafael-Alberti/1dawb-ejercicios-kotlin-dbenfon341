@@ -150,9 +150,9 @@ fun ej1_25() {
 
     val dia = fechaDividida[0]
     val mes = fechaDividida[1]
-    val año = fechaDividida[2]
+    val ano = fechaDividida[2]
 
-    println("Su fecha de nacimiento es: $dia / $mes / $año")
+    println("Su fecha de nacimiento es: $dia / $mes / $ano")
 }
 
 
